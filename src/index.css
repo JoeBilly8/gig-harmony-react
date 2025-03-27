@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+
+@theme {
+  --font-family: "Roboto", "sans-serif";
+  --grid-template-columns: 70fr 28fr;
+}
