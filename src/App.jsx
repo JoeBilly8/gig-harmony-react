@@ -9,7 +9,7 @@ const App = () => {
     <>
     <NavBar />
 
-    <Hero title='Find a musician for you' subtitle='Or the perfect music job' />    
+    <Hero title='Find a musician' subtitle='Or the perfect band for you!' />    
 
     <HomeCards />
 
